@@ -1,3 +1,9 @@
+***** Updated Version Using SMD Components *****
+
+I have updated the PCB to use all SMD components and tactile switches
+I have re-compiled the code and confirmed is working.
+
+
 # SDisk2 - Simplified
 
 Disk II flopy drive emulator for Apple 2 computers
